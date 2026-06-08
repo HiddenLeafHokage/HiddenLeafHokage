@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hello World!, I'm Chukwuka Solomon 👋:
 
-<!--
-**HiddenLeafHokage/HiddenLeafHokage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer with **5 years of experience**, focused on **fintech, payments, APIs and microservices**. I build scalable, secure backend systems with **C#/.NET, Node.js and TypeScript**  designing clean architectures that move money reliably. This account is home to my **backend & .NET** work.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 **Software Engineer** at _SterlingPRO Business Applications_ | Full-time | Sep 2025 - Present  building card settlement, transaction/ATM monitoring and payment systems
+- 🥽 Formerly **VR Developer** at the Institute of Genomics and Global Health (Unity / Oculus Quest 3)
+- 🌱 Currently completing the **Microsoft Full Stack Developer** professional certificate
+- 📧 Email: solomon.chukwuka28@gmail.com
+- 📱 Phone: +(234) 903-171-9680
+- 🌐 [Portfolio](https://chukwuka-rho.vercel.app/)
+
+# 💻 Tech Stack:
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/sql_server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+# 📌 Featured Projects:
+
+- 🛒 **[Treda Marketplace API](https://github.com/HiddenLeafHokage/TREDA)**  production .NET 9 marketplace backend with vendor **wallet**, JWT auth, real-time messaging, Docker & monitoring (Prometheus + Sentry) · `.NET 9` `PostgreSQL` `Docker` `Clean Architecture`
+- 🛍️ **[.NET E-Commerce Platform](https://github.com/HiddenLeafHokage/DotNetTask)**  full-stack shop with **Onion architecture**, EF Core & SQL Server backend + React/TypeScript frontend · `.NET 8` `EF Core` `React` `TS`
+- 🥽 **[Molecular Biology VR](https://github.com/HiddenLeafHokage/IGH_XR)** immersive VR app for exploring DNA, RNA & virus structures · `Unity 6` `C#` `Oculus Quest 3`
+- 🔭 More **frontend, Node & payment** work (incl. **Natours  Stripe payments API** and **JustMove Global**) on my other account → **[@loveisthekeysteven](https://github.com/loveisthekeysteven)**
+
+# 📊 GitHub Stats:
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=HiddenLeafHokage&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HiddenLeafHokage&theme=tokyonight&hide_border=true&layout=compact)
+
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HiddenLeafHokage/HiddenLeafHokage/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HiddenLeafHokage/HiddenLeafHokage/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/HiddenLeafHokage/HiddenLeafHokage/output/github-snake.svg" />
+</picture>
+
+Feel free to connect with me! Let's collaborate and build amazing things together. 😄
